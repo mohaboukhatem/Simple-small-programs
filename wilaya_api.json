@@ -1,0 +1,177 @@
+[
+{
+
+    "commune_name_ascii": "Fornaka",
+    "daira_name_ascii": "Ain Nouicy"
+},
+{
+
+    "commune_name_ascii": "Oued El Kheir",
+    "daira_name_ascii": "Ain Tedeles"
+},
+{
+
+    "commune_name_ascii": "Hassiane",
+    "daira_name_ascii": "Ain Nouicy"
+},
+{
+
+    "commune_name_ascii": "Hassi Mameche",
+    "daira_name_ascii": "Hassi Mameche"
+},
+{
+
+    "commune_name_ascii": "Mazagran",
+    "daira_name_ascii": "Hassi Mameche"
+},
+{
+
+    "commune_name_ascii": "Stidia",
+    "daira_name_ascii": "Hassi Mameche"
+},
+{
+
+    "commune_name_ascii": "Ain-Tedles",
+    "daira_name_ascii": "Ain Tedeles"
+},
+{
+    
+    "commune_name_ascii": "Sidi Belaattar",
+    "commune_name": "سيدي بلعطار",
+    "daira_name_ascii": "Ain Tedeles"
+},
+{
+
+    "commune_name_ascii": "Sour",
+    "daira_name_ascii": "Ain Tedeles"
+},
+{
+    "commune_name_ascii": "Ain-Boudinar",
+    "daira_name_ascii": "Kheir Eddine"
+},
+{
+
+    "commune_name_ascii": "Kheir-Eddine",
+    "daira_name_ascii": "Kheir Eddine"
+},
+{
+
+    "commune_name_ascii": "Sayada",
+    "daira_name_ascii": "Kheir Eddine"
+},
+{
+
+    "commune_name_ascii": "Sidi Ali",
+    "daira_name_ascii": "Sidi Ali"
+},
+{
+
+    "commune_name_ascii": "Tazgait",
+    "daira_name_ascii": "Sidi Ali"
+},
+{
+
+    "commune_name_ascii": "Benabdelmalek Ramdane",
+    "daira_name_ascii": "Sidi Lakhdar"
+},
+{
+    
+    "commune_name_ascii": "Mostaganem",
+    "daira_name_ascii": "Mostaganem"
+},
+{
+    
+    "commune_name_ascii": "Hadjadj",
+    "daira_name_ascii": "Sidi Lakhdar"
+},
+{
+    
+    "commune_name_ascii": "Sidi-Lakhdar",
+    "daira_name_ascii": "Sidi Lakhdar"
+},
+{
+    
+    "commune_name_ascii": "Achaacha",
+    "daira_name_ascii": "Achaacha"
+},
+{
+    "id": 974,
+    "commune_name_ascii": "Khadra",
+    "commune_name": "خضرة",
+    "daira_name_ascii": "Achaacha"
+},
+{
+    "id": 980,
+    "commune_name_ascii": "Nekmaria",
+    "commune_name": "نكمارية",
+    "daira_name_ascii": "Achaacha"
+},
+{
+    "id": 982,
+    "commune_name_ascii": "Ouled Boughalem",
+    "commune_name": "أولاد بوغالم",
+    "daira_name_ascii": "Achaacha"
+},
+{
+    "id": 969,
+    "commune_name_ascii": "Bouguirat",
+    "commune_name": "بوقيراط",
+    "daira_name_ascii": "Bouguirat"
+},
+{
+    "id": 984,
+    "commune_name_ascii": "Safsaf",
+    "commune_name": "صفصاف",
+    "daira_name_ascii": "Bouguirat"
+},
+{
+    "id": 989,
+    "commune_name_ascii": "Sirat",
+    "commune_name": "سيرات",
+    "daira_name_ascii": "Bouguirat"
+},
+{
+    "id": 990,
+    "commune_name_ascii": "Souaflia",
+    "commune_name": "السوافلية",
+    "daira_name_ascii": "Bouguirat"
+},
+{
+    "id": 966,
+    "commune_name_ascii": "Ain-Sidi Cherif",
+    "commune_name": "عين سيدي الشريف",
+    "daira_name_ascii": "Mesra"
+},
+{
+    "id": 976,
+    "commune_name_ascii": "Mansourah",
+    "commune_name": "منصورة",
+    "daira_name_ascii": "Mesra"
+},
+{
+    "id": 978,
+    "commune_name_ascii": "Mesra",
+    "commune_name": "ماسرة",
+    "daira_name_ascii": "Mesra"
+},
+{
+    "id": 994,
+    "commune_name_ascii": "Touahria",
+    "commune_name": "الطواهرية",
+    "daira_name_ascii": "Mesra"
+},
+{
+    "id": 965,
+    "commune_name_ascii": "Ain-Nouissy",
+    "commune_name": "عين نويسي",
+    "daira_name_ascii": "Ain Nouicy"
+   
+},
+{
+    "id": 983, 
+    "commune_name_ascii": "Ouled-Maalah",
+    "commune_name": "أولاد مع الله",
+    "daira_name_ascii": "Sidi Ali"
+    
+    }
+]
